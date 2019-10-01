@@ -4,3 +4,7 @@
 
 # About
 My name is Jonas Jäger. I am a PhD student at the University of Applied Scineces Fulda and the Computer Vision Group Jena.
+
+## Research Interest
+* Semi-automatic image annotation
+* Image annotation tools
