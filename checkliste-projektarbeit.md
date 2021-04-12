@@ -11,7 +11,7 @@
 * [ ] Protokoll
   * [ ] Stichpunktartige Zusammenfassung der Beprechung
   * [ ] Das Protokoll wurde per Mail an *j.jaeger@l3bm.com* versendet
-* [ ] Meilenstein wurden überprüft
+* [ ] Meilensteine wurden überprüft
 
 ## Abgabe
 * [ ] GitHub Repo
